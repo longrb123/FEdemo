@@ -1,0 +1,32 @@
+.price{
+    text-align: center; 
+    color: red; font-weight: bold; 
+    font-size: medium;
+}
+.price-deco{
+    text-decoration: line-through; color: darkgray; font-size: small;
+}
+.name-prd{
+    text-align: center;
+}
+.name-prd2{
+    text-align: center;
+    font-size: small;
+}
+.icon{
+    text-align: center;
+    color: #FFD700;
+    font-size: large;
+    
+}
+.icon-payment{
+    font-size: large;
+    text-align: center;
+}.flowus{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    text-align: start;
+}
+
